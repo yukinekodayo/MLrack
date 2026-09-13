@@ -1,1 +1,6 @@
-this projects is working not finished.
+# 歯車AI（Gear AI）
+
+犬・猫の顔写真を、電気を使わず歯車機構で判定する物理コンピューティング展示。文化祭出展作品。
+
+ドキュメントは [`docs/`](./docs/README.md) 以下にまとまっています。詳細はそちらを参照してください。
+
